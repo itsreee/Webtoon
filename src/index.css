@@ -1,0 +1,12 @@
+*{
+    font-family: "Fredoka", system-ui;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+@media(min-width: 160px) {
+    #card{
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+}
